@@ -1,0 +1,5 @@
+# Stores fire alternately
+GT4500,1,0,1,0
+TORPEDO,SINGLE # primary
+TORPEDO,SINGLE # secondary (alternating)
+TORPEDO,SINGLE # both empty
