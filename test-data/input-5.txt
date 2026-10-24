@@ -1,0 +1,4 @@
+# Failing store: no retry with the other store
+GT4500,1,1,1,0
+TORPEDO,SINGLE # primary fails, no retry on secondary
+TORPEDO,SINGLE # secondary still has its torpedo
